@@ -24,6 +24,14 @@ h1 {
     text-align: center;
     font-size: 3rem;
 }
+.input-login{
+    width: 300px;
+    height: 32px;
+    padding: 0 8px;
+    background-color: #463f09;
+    color: var(--primary-color);
+    border: 1px solid var(--primary-color);
+}
 
 form {
     display: grid;
